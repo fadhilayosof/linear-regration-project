@@ -1,4 +1,4 @@
-# linear-regration-project
+# linear-regression-project
 Project Summary.
 
 Trip duration is the most fundamental measure in all modes of transportation. Hence, it is crucial to predict the trip-time precisely for the advancement of Intelligent Transport
